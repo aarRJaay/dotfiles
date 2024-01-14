@@ -1,0 +1,7 @@
+--require("richsouth")
+require("richsouth.set")
+require("richsouth.packer")
+--require("richsouth.set")
+require("richsouth.highlightYank")
+require("richsouth.vimWiki")
+require("richsouth.remap")
